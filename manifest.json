@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "klen",
+  "repo": "muffin-docker",
+  "versions": [
+    {
+      "commit": "702e0d0a03178d7aecf1620bd3c2ddae17d0c637",
+      "parsed_at": "2026-10-20T21:29:41.853569+00:00",
+      "filetree": "filetree/702e0d0a03178d7aecf1620bd3c2ddae17d0c637.nq.gz",
+      "blobs": [
+        "blob/8c5984ead0b03e3a6410a3a02266b947920cd84f.nq.gz",
+        "blob/893eba7919c2e6eb728fb626033d56ce82b47b4d.nq.gz",
+        "blob/7a04732593a06a700f1152f19bc3741e6ea6230a.nq.gz",
+        "blob/904efd9d512c95f2c371e9289d99e1d338ffe2c9.nq.gz",
+        "blob/2e55a336c3be74eddf1693d4edf0db07e44f007b.nq.gz",
+        "blob/2471213d202698a55e0477a657105f54e29cccd5.nq.gz",
+        "blob/78269be990cf17362b5bc6bda75717785b8b1e33.nq.gz",
+        "blob/fd5a1a8e135ee2dc31e7da95a29b77dfec290a99.nq.gz",
+        "blob/a0411b6aa205dc636076fdf20682e12cbfde8dfa.nq.gz",
+        "blob/77692247d474c548058ecc4a5f1fe7e53f3100be.nq.gz",
+        "blob/c5b436b2d72cc59ca6d75b8aa8c32dc4dd0a8262.nq.gz",
+        "blob/5b2b3419ca944d229eae0bc07863dae17355a158.nq.gz",
+        "blob/0ddcdae108b995e2e3a365d8f8822dccc1d8b574.nq.gz",
+        "blob/c7a03e5e34d39b30a547d67263265594edc52b37.nq.gz",
+        "blob/fe621a6e884f0da66beaaf3774c29040e88d3e89.nq.gz",
+        "blob/a42cb28b1cacd4c6b411504f3e811420d7d706a9.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/7a14ce77a162a11f261accd84a849029e8a940ec.nq.gz",
+        "blob/d212ebdc630b2220377081597d006c643d9c69e1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
